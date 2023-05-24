@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sumOfArray {
+public class SumOfArray {
     public static void main(String[] args) {
         System.out.print("Nhập n: ");
         Scanner sc = new Scanner(System.in);
